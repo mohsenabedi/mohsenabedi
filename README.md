@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohsenabedi
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unreal Engine 5 & C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects and ideas 
 - 📫 You can reach out to me via Linkedin.com/in/MohsenAbedi
 
 <!---
